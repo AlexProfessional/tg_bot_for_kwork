@@ -20,4 +20,4 @@
 3. Запустите бота: `python bot.py`
 
 ## Пример работы:
-*(сюда мы вставим скриншот)*
+![Скриншот работы бота](https://i.postimg.cc/kXSKQnyf/primerfoto.jpg)
